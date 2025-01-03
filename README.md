@@ -23,7 +23,7 @@ _Topics Covered_:
 `and more`
 | Course | Progress | Start Date | Planned End Date | Actual End Date | Proof |Projects|
 :-- | :--: | :--: | :--: | :--: | :--:|:--:|
-|Introduction to Programming|![CS50P](https://geps.dev/progress/0) | 01.01.25 | 15.02.25 |-|-|-|
+|Introduction to Programming|![CS50P](https://geps.dev/progress/4) | 01.01.25 | 15.02.25 |-|[6.100L](./resources/intro-cs/MIT-6.100L/)|-|
 
 | Course | Progress | Start Date | Planned End Date | Actual End Date | Proof |Projects|
 :-- | :--: | :--: | :--: | :--: | :--:|:--:|
