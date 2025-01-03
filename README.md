@@ -21,13 +21,10 @@ _Topics Covered_:
 `basic abstractions`
 `basic data structures and algorithms`
 `and more`
-| Course | Progress | Start Date | Planned End Date | Actual End Date | Proof |Projects|
-:-- | :--: | :--: | :--: | :--: | :--:|:--:|
-|Introduction to Programming|![CS50P](https://geps.dev/progress/4) | 01.01.25 | 15.02.25 |-|[6.100L](./resources/intro-cs/MIT-6.100L/)|-|
 
 | Course | Progress | Start Date | Planned End Date | Actual End Date | Proof |Projects|
 :-- | :--: | :--: | :--: | :--: | :--:|:--:|
-|Introduction to Computer Science|![MIT6.0001](https://geps.dev/progress/0) |-|-|-|-|-|
+|[Introduction to CS and Programming using Python](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/pages/material-by-lecture)|![CS50P](https://geps.dev/progress/4) | 01.01.25 | 15.02.25 |-|[6.100L](./resources/intro-cs/MIT-6.100L/)|-|
 
 ## CORE CS
 
